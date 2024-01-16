@@ -1,0 +1,42 @@
+2024-01-15 19:21:31,181 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-01-15 19:22:12,248 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=120.0.6099.217) 
+Host info: host: 'RAIKARGAJU', ip: '192.168.0.118'
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], binary: C:\Program Files\Google\Chr..., extensions: []}}]}]
+2024-01-15 19:22:12,264 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-01-15 19:22:12,264 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2024-01-15 19:22:12,264 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-01-15 19:22:12,264 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials java.lang.NullPointerException
+2024-01-15 19:22:12,264 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-01-15 19:22:12,264 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-01-15 19:22:12,264 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2024-01-15 19:22:12,264 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-01-15 19:22:12,264 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
+2024-01-15 19:22:12,264 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-01-15 19:22:12,279 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Close_Application_Browser java.lang.NullPointerException
+2024-01-15 19:22:12,279 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-01-15 21:41:10,948 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Launch Application org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'RAIKARGAJU', ip: '192.168.0.118'
+2024-01-15 21:41:10,948 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-01-15 21:41:10,948 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Navigate_to_the_url_of_the_application java.lang.NullPointerException
+2024-01-15 21:41:10,948 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-01-15 21:41:10,948 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Login_using_valid_credentials java.lang.NullPointerException
+2024-01-15 21:41:10,948 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-01-15 21:41:10,948 INFO c.s.a.s.ActiTimeStepDefinition [main] Create an User
+2024-01-15 21:41:10,948 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Create_an_User java.lang.NullPointerException
+2024-01-15 21:41:10,948 INFO c.s.a.s.ActiTimeStepDefinition [main] User should create successfully
+2024-01-15 21:41:10,948 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of User_should_create_successfully java.lang.NullPointerException
+2024-01-15 21:41:10,948 INFO c.s.a.s.ActiTimeStepDefinition [main] delete the user
+2024-01-15 21:41:10,948 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of delete_the_user java.lang.NullPointerException
+2024-01-15 21:41:10,948 INFO c.s.a.s.ActiTimeStepDefinition [main] the user should delete
+2024-01-15 21:41:10,964 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_user_should_delete java.lang.NullPointerException
+2024-01-15 21:41:10,964 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-01-15 21:41:10,964 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Perform_logout_action java.lang.NullPointerException
+2024-01-15 21:41:10,964 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-01-15 21:41:10,964 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of the_login_page_should_display java.lang.NullPointerException
+2024-01-15 21:41:10,964 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-01-15 21:41:10,964 ERROR c.s.a.s.ActiTimeStepDefinition [main] There is an error occurance during the execution of Close_Application_Browser java.lang.NullPointerException
